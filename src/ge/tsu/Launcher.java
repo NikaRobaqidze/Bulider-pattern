@@ -1,10 +1,11 @@
 package ge.tsu;
 
-import ge.tsu.DML.Delete;
-import ge.tsu.DML.Insert;
-import ge.tsu.DQL.Select;
+import ge.tsu.DML.*;
+import ge.tsu.DQL.*;
+
 import ge.tsu.sqlutils.LogicOperators;
 import ge.tsu.sqlutils.Where;
+
 import ge.tsu.utils.DeleteBuilder;
 import ge.tsu.utils.InsertBuilder;
 import ge.tsu.utils.SelectBuilder;
